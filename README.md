@@ -1,2 +1,3 @@
-# DotNetCoreLab
-Experiments, Tests and Examples in .Net Core
+# Lab
+
+Repositório laboratório para testar e experimentar.

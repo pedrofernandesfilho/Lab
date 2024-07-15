@@ -1,0 +1,4 @@
+@HostAddress = http://localhost:5204/Task
+
+GET {{HostAddress}}
+Accept: application/json
